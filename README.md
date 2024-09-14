@@ -255,5 +255,3 @@ After the VM is shut down. Click on Settings from the toolbar.
 Go to the Storage tab. In the Storage Devices section click on the pfSense .iso image then click on the small disk image on the right side of the Optical Drive option.
 
 From the dropdown select Remove Disk from Virtual Drive. Click on OK to save the changes and close the configuration menu.
-
-![image](https://github.com/user-attachments/assets/aff1a1f9-6bef-46e0-acfa-7b9b44182af4)
