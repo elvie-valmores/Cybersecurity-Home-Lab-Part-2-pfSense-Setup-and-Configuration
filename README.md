@@ -3,7 +3,7 @@
 ## Objective
 In this module, the objective was to install and configure pfSense as the gateway and firewall for the home lab. This setup ensures proper network segmentation and security controls, allowing for safe and organized testing of different components in the lab environment.
 
-### Home Lab Overview
+### Skills Learned
 - Installation and configuration of pfSense as a network firewall.
 - Creation and management of multiple virtual network interfaces.
 - Setup of static IP addressing for lab subnets.
